@@ -1,2 +1,2 @@
 # polis_project
-Collaboration between CHC and SRL
+The polis data project is a collaboration between Aarhus University's Center for Humanities Computing (CHC) and Social Resilience Lab (SRL). The aim of this project is to develop a pipeline for extracting data from the text of archaeological records into a spreadsheet format. This development is focused on Hansen & Nielsen's "An Inventory of Archaic and Classical Poleis" (2004), but an ideal product would be flexible and applicable to sources from the dense, text-heavy nature of archaeological compilations.
